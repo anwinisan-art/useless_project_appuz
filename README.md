@@ -67,7 +67,7 @@ For Software:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[https://github.com/anwinisan-art/useless_project_appuz/blob/main/Screencast%20from%2012-09-26%2003%3A34%3A48%20AM%20IST.webm]
 *Explain what the video demonstrates*
 
 # Additional Demos
