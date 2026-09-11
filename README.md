@@ -2,7 +2,7 @@
 
 
 
-# fake wedsite error
+# fake website error
 
 
 ## Basic Details
