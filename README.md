@@ -56,8 +56,9 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+### Screenshot 1
+![Screenshot 1](Screenshot from 2026-09-12 00-17-28.png)
+*Shows the main page of the website.*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
