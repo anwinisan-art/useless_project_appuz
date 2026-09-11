@@ -10,8 +10,8 @@
 
 
 ### Team Members
-- Team Lead: [Anwin] - [College]
-- Member 2: [Dhanusree] - [College]
+- Team Lead: [Anwin] - [Iccs]
+- Member 2: [Dhanusree] - [Iccs]
 - Member 3: [Name] - [College]
 
 ### Project Description
