@@ -2,7 +2,7 @@
 
 
 
-# [Project Name] 🎯
+# Kerala Quest 🎯
 
 
 ## Basic Details
