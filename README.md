@@ -15,7 +15,7 @@
 - Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+[The Escape is a simple adventure game developed using Python and Pygame. The player controls a character, explores the environment, avoids obstacles, and tries to reach the escape point safely.]
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
