@@ -34,10 +34,10 @@ A completely unnecessary solution for a completely unnecessary problem.
 
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [html]
+- [html]
+- [html]
+- [vs studio]
 
 For Hardware:
 - [List main components]
@@ -97,7 +97,7 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
+- [anwin]: []
 - [Name 2]: [Specific contributions]
 - [Name 3]: [Specific contributions]
 
