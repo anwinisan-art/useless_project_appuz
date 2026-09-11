@@ -18,7 +18,7 @@
 [The Escape is a simple adventure game developed using Python and Pygame. The player controls a character, explores the environment, avoids obstacles, and tries to reach the escape point safely.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[People are tired of having nothing to do while trying to escape a completely imaginary Kerala adventure. This game solves the very serious problem of getting lost, avoiding obstacles, and escaping from a place that doesn’t actually exist]
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
