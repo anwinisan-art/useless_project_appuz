@@ -21,7 +21,7 @@
 [People are tired of having nothing to do while trying to escape a completely imaginary Kerala adventure. This game solves the very serious problem of getting lost, avoiding obstacles, and escaping from a place that doesn’t actually exist]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[ The Escape, a fun Python game where the player runs around, avoids obstacles, and tries to escape. Because apparently, escaping from a place that doesn’t exist is a problem that absolutely needed solving]
 
 ## Technical Details
 ### Technologies/Components Used
