@@ -62,28 +62,8 @@ For Software:
 *Shows the main page of the website.*
 
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
@@ -94,8 +74,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [anwin]: []
-- [Name 2]: [Specific contributions]
+- [anwin]: [Suggested an idea for the project]
+- [Dhanusree]: [creating the HTML program.]
 - [Name 3]: [Specific contributions]
 
 ---
