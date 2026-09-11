@@ -19,15 +19,19 @@
 The project is designed as a fun and useless concept to create a fake “Website Error” experience.
 ]
 
-### The Problem (that doesn't exist)A simple website that intentionally displays an error message whenever the user tries to open it.
-The project is designed as a fun and useless concept to create a fake “Website Error” experience.
+### The Problem (that doesn't exist)
 
-[People are tired of having nothing to do while trying to escape a completely imaginary Kerala adventure. This game solves the very serious problem of getting lost, avoiding obstacles, and escaping from a place that doesn’t actually exist]
+[A useless website that creates a fake problem by showing an error message whenever someone opens it.
+It solves absolutely nothing—because the problem itself doesn’t exist.
+]
 
 ### The Solution (that nobody asked for)
-[ The Escape, a fun Python game where the player runs around, avoids obstacles, and tries to escape. Because apparently, escaping from a place that doesn’t exist is a problem that absolutely needed solving]
+[Replace the “Something went wrong” error with “Something went right… but we don’t know what.
+A completely unnecessary solution for a completely unnecessary problem.
+]
 
-## Technical Details
+## 
+
 ### Technologies/Components Used
 For Software:
 - [Languages used]
